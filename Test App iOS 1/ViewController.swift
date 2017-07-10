@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Test App iOS 1
+//  Test App iOS 2
 //
 //  Created by Aurelien  on 05/07/2017.
 //  Copyright © 2017 Aurelien ANTONIO. All rights reserved.
